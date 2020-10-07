@@ -1,1 +1,1 @@
-,C:/Program Files (x86)/Google/Chrome/Application/chrome.exe,C:/Program Files/Microsoft Office/root/Office16/OUTLOOK.EXE,
+C:/Program Files (x86)/Google/Chrome/Application/chrome.exe,C:/Program Files/Microsoft Office/root/Office16/OUTLOOK.EXE,C:/Program Files/RoboTask/RoboTask.exe,
